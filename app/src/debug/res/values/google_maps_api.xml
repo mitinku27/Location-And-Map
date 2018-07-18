@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=10:BF:FD:0F:62:94:11:3F:7A:A3:9F:DE:D2:76:D3:E5:C8:95:F6:98%3Bcom.example.tinku.locationandmap
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    10:BF:FD:0F:62:94:11:3F:7A:A3:9F:DE:D2:76:D3:E5:C8:95:F6:98
+
+    SHA-1 certificate fingerprint:
+    10:BF:FD:0F:62:94:11:3F:7A:A3:9F:DE:D2:76:D3:E5:C8:95:F6:98
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBPhv3e8njTpjSvEtBz4scyT-fKOoTEM4U</string>
+</resources>
